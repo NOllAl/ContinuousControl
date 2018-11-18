@@ -24,7 +24,7 @@ The environment is considered solved if the the agents receive and average score
 # Installation
 
 #### Step 1: Clone the repo
-`git clone https://github.com/NollAl/continuous_control.git`.
+`git clone https://github.com/NOllAl/ContinuousControl.git`.
 
 
 #### Step 2: Install Dependencies
